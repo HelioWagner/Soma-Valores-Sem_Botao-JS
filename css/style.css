@@ -1,0 +1,21 @@
+main {
+     border: solid 2px;
+     background-color: rgb(241, 9, 9);
+     width: 400px ;
+}
+
+h1 {
+     color: blue;
+}
+
+label {
+    margin : 5px 10px 10px 10px;
+    color: white;
+}
+
+.entrada__Valores {
+    display: block;
+    margin : 5px 10px 10px 10px;
+    width: 40px;
+    border: solid 2px black;
+}
